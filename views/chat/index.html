@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Chat</title>
+		<link rel='stylesheet' href='/stylesheets/estilo.css' />
+		<link rel='stylesheet' href='/stylesheets/bootstrap.css' />
+	</head>
+	<body>
+		<header class="text-center">
+			<h2>Chat-Socket</h2>
+		</header>
+
+		<section class="row-fluid">
+			<ul id="chat" class="pre-scrollable"></ul>
+			<form id="formulario" autocomplete="off">
+					<input type="text" id="msg" maxlength="155" placeholder="Mensagem"/>
+					<button>Enviar</button>
+			</form>
+		</section>	
+
+		<script src="/socket.io/socket.io.js"></script>
+		<script type="text/javascript" src="/javascripts/jquery-2.1.4.js"></script>
+		<script type="text/javascript" src="/js/script.js"></script>
+		
+		<footer class="text-center">
+	        <small>by Mayara Rysia</small>
+	     </footer>
+	  </body>
+ </html>	 
