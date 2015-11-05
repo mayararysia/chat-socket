@@ -11,7 +11,7 @@
 
 ## **Requisitos**
 
-* Ter no mínimo a versão 0.12.7 do Node.js instalada na máquina [Node.js](https://nodejs.org/en/) .
+* Ter no mínimo a versão 0.12.7 do [Node.js](https://nodejs.org/en/) instalada na máquina.
 
 ## **Como Usar**
 
@@ -21,4 +21,4 @@
   npm install
   node app.js
 ```
-* Abra dois navegadores no endereço **http://localhost:3000** e realize o teste.
+* Abra dois navegadores no endereço **http://localhost:3000** e realize a comunicação entre eles.
