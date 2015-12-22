@@ -77,5 +77,5 @@ Se necesita ejecutar la consola los siguientes comandos:
   node app.js
 ```
 
-* Abra dos navegadores en la url ** http: // localhost: 3000 ** y haga la comunicación entre ellos.
+* Abra dos navegadores en la url **http://localhost:3000s** y haga la comunicación entre ellos.
 
