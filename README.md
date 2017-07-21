@@ -1,5 +1,5 @@
 # **Chat-Socket**
-=====================
+
 
 It's a simple real-time chat done to learn how to use socket.io.
 
@@ -25,8 +25,9 @@ It must run the console the following commands:
 
 
 
+
 # **Chat-Socket**
-=====================
+
 
 É um chat real-time simples feito para aprender a usar socket.io.
 
@@ -53,8 +54,9 @@ It must run the console the following commands:
 
 
 
+
 # **Chat-Socket**
-=====================
+
 
 Es un simple chat en tiempo real para aprender a utilizar socket.io.
 
